@@ -1,10 +1,13 @@
 import LocalizedStrings from 'react-native-localization';
 
-export const LANGUAGES = ['fr', 'en'];
+export const LANGUAGES = ['en', 'es', 'fr'];
 
 const strings = new LocalizedStrings({
   en: {
     hello: 'Hello',
+  },
+  es: {
+    hello: 'Hola',
   },
   fr: {
     hello: 'Bonjour',

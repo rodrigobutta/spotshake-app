@@ -15,6 +15,7 @@
         "no-var-keyword": true,
         "object-literal-shorthand": true,
         "object-shorthand-properties-first": false,
+        "no-console": false,
         "object-literal-key-quotes": [
             true,
             "as-needed"
